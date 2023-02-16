@@ -16,3 +16,6 @@ To generate a build ready for production:
     npm run build
 
 Then deploy the contents of the `dist` directory to your server.  You can also run `npm run serve` to serve the results of the `dist` directory for preview.
+
+Then you have to install turf package to perform spatial operations.
+The last and completet file till now is Overlap V2.
